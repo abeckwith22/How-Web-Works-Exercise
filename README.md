@@ -15,9 +15,9 @@
 
 **What is an HTTP Request?**: An HTTP Request is a request from a client to a server following the HTTP protocol, and sends back the content that you would get from HTT protocol, such as the HTML, CSS, and JavaScript of the server.
 
-**What is an HTTP header? Give a couple examples of request and reponse headers you have seen.**:
+**What is an HTTP header? Give a couple examples of request and response headers you have seen.**:
 
-Headers give you more information on the request/repopnse to a domain 
+Headers give you more information on the request/response to a domain 
 #### Request Headers
 - `Host:` Gets the domain host of the website
 - `Accept-Launguage:` Gets the accepted languages of the website (eg. en-US, etc.)
