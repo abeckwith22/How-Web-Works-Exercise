@@ -9,21 +9,21 @@
 
 **DNS**: DNS stands for Domain Name System, this system takes human-readable URLs, converting them into IP addresses. It's effectively a phonebook for the internet.
 
-**query string**: A Query String passes key-value pairs into the URL.
+**Query String**: A Query String passes key-value pairs into the URL.
 
-**list two HTTP verbs and their use cases**: `GET` retrieves data from a specific resource that you request. `DELETE` method deletes the specific resource.
+**List two HTTP verbs and their use cases**: `GET` retrieves data from a specific resource that you request. `DELETE` method deletes the specific resource.
 
-**What is an HTTP Request?**: An HTTP Request is a request from a client to a server following the HTTP protocol, and sends back the content that you would get from HTT protocol, such as the HTML, CSS, and JavaScript of the server.
+**What is an HTTP Request?**: An `HTTP` Request is a request from a client to a server following the HTTP protocol, and sends back the content that you would get from HTT protocol, such as the HTML, CSS, and JavaScript of the server.
 
-**What is an HTTP header? Give a couple examples of request and response headers you have seen.**:
+**What is an HTTP header? Give a couple examples of request and reponse headers you have seen.**:
 
-Headers give you more information on the request/response to a domain 
+Headers give you more information on the request/repopnse to a domain 
 #### Request Headers
 - `Host:` Gets the domain host of the website
 - `Accept-Launguage:` Gets the accepted languages of the website (eg. en-US, etc.)
 #### Reponse Headers
-- `Content-Type:`
-- `Cache-Control:`
+- `Content-Type:` Used to indicate the orginal media type of the resource (eg. mulipart/form-data, etc.)
+- `Cache-Control:` Holds instructions in both requests and responses, they control caching in browsers and shared chaches (i.e. CDNs, Proxies, etc.)
 
 **What are the processes that happen when you type "http://somesite.com/some/page.html" into a browser?**
 
