@@ -17,7 +17,7 @@
 
 **What is an HTTP header? Give a couple examples of request and reponse headers you have seen.**:
 
-Headers give you more information on the request/repopnse to a domain 
+Headers give you more information on the request/response to a domain 
 #### Request Headers
 - `Host:` Gets the domain host of the website
 - `Accept-Launguage:` Gets the accepted languages of the website (eg. en-US, etc.)
